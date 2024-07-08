@@ -5,7 +5,6 @@ import java.io.*;
 import javax.sound.midi.*;
 import java.util.*;
 
-// DO NOT MODIFY THIS CLASS
 /**
  * Implements a "band" application with a piano keyboard that
  * can play different musical instruments, either locally or

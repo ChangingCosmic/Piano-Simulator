@@ -4,7 +4,6 @@ import java.awt.event.*;
 import javax.swing.*;
 import javax.sound.midi.*;
 
-// DO NOT MODIFY THIS CLASS
 /**
  * Implements a control panel with which the user can
  * select a musical instrument as well as the MIDI receiver
